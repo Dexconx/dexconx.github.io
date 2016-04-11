@@ -1,0 +1,187 @@
+
+/* Gets rid of rounded corners */
+
+* {
+  border-radius: 0 !important;
+}
+
+
+.jumbotron{
+	
+	background-color: #B0BEC5;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+ 
+}
+
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.navbar{
+
+	margin-bottom: 0px;
+}
+
+#navb{
+
+	padding: 0;
+}
+
+.container-essentials{
+	color: red;
+	margin-bottom: 30px;
+}
+
+.container-aboutme{
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 50px;
+}
+
+#content-image{
+
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#tekapo-text{
+	margin: 0;
+	font-style: italic;
+	font-size: 12px;
+}
+
+
+#content-right{
+
+	text-align: center;
+	padding-top:100px;
+
+	font-style: italic;
+	font-weight: bold;
+	color: red;
+}
+
+#icon{
+	text-align: center;
+}
+
+#pbreak{
+	margin-top: 50px;
+	margin-bottom: 30px;
+
+}
+
+.projects-title{
+
+	margin-bottom: 	60px;
+}
+
+
+#projects .row{
+	margin-bottom: 30px;
+	border-style: 	ridge;	
+
+}
+
+.project-container{
+
+
+}
+
+
+.blockquot{
+	position: relative;
+	background-color: #CFD8DC;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+
+.blockquot p{
+	text-align: center;
+	font-style: italic;
+
+}
+
+#title-side{
+
+	margin-bottom: 30px;
+}
+
+/* Subscribe Form */
+
+#subscribe{
+
+}
+
+.well{
+	margin-top: 70px;
+	text-align: center;
+}
+
+#form-title{
+	font-size: 18px;
+	color: darkgrey;
+	margin-bottom: 15px;
+	
+}
+
+#email{
+
+	width: 100%;
+}
+
+#submit-btn{
+	text-align: center;
+	width: 100%;
+}
+
+.projects-title{
+	text-align: center;
+	color: red;
+}
+
+.footer {
+  color: white;
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  bottom: 0;
+  
+  /* Set the fixed height of the footer here */
+   background-color: #263238;
+}
+
+footer li{
+	text-align: center;
+	display: block;
+
+}
+
+footer ul{
+	padding: 0px;
+}
+
+footer .text-muted{
+	text-align: center;
+}
+
+
