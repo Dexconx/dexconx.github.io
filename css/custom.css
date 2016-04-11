@@ -6,10 +6,7 @@
 }
 
 
-.jumbotron{
-	
-	background-color: #B0BEC5;
-}
+
 
 /* Sticky footer styles
 -------------------------------------------------- */
@@ -32,8 +29,22 @@ hr {
     border-style: inset;
     border-width: 1px;
 }
+.jumbotron{
+	
+	
+	background-image: url("../laptop-coffee.jpg");
+	height: 500px;
+	background-size: 100% 100%;
+	margin-bottom: 0px;
+}
 
-/* Fancy underline*/
+#banner{
+
+
+	height: 80px;
+	margin-top: 0px;
+	background-color: lightgrey;
+}
 
 
 
@@ -45,6 +56,26 @@ hr {
 #navb{
 
 	padding: 0;
+}
+
+.elements{
+
+margin-top: 50px;
+text-align: center;
+
+}
+
+.desc{
+	padding-right: 15px;
+	padding-left: 15px;
+	border-bottom: 1px solid #c3c3c3;
+
+}
+
+.line-big{
+
+	line-height: 200%;
+
 }
 
 .container-essentials{
@@ -89,6 +120,10 @@ hr {
 	margin-top: 50px;
 	margin-bottom: 30px;
 
+}
+
+#skills{
+	background-color: #F5F5F5;
 }
 
 .projects-title{
@@ -161,9 +196,13 @@ hr {
 .projects-title{
 
 	text-align: center;
-	color: red;
 	padding-bottom: 5px;
 
+}
+
+#contact{
+
+	background-color: #F5F5F5;
 }
 
 
@@ -176,6 +215,12 @@ hr {
   
   /* Set the fixed height of the footer here */
    background-color: #263238;
+}
+
+.text-centre{
+
+	text-align: center;
+
 }
 
 footer li{
