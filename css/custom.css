@@ -33,6 +33,10 @@ hr {
     border-width: 1px;
 }
 
+/* Fancy underline*/
+
+
+
 .navbar{
 
 	margin-bottom: 0px;
@@ -155,9 +159,13 @@ hr {
 }
 
 .projects-title{
+
 	text-align: center;
 	color: red;
+	padding-bottom: 5px;
+
 }
+
 
 .footer {
   color: white;
